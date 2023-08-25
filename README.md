@@ -7,7 +7,7 @@
 
 Библиотека телеграм: PyTelegramBotApi(telebot)
 
-Ссылка на бота [тык]([https://www.example.com](http://t.me/tinderbusiness_bot))
+Ссылка на бота [тык](http://t.me/tinderbusiness_bot)
 
 
 # Файлы
